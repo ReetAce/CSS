@@ -1,0 +1,133 @@
+.container {
+    /* width: 1140px; */
+    margin-right: 165px;
+    margin-left: 165px;
+    padding: 0 15px;
+    /* float: left; */
+}
+
+header {
+    padding: 12px 0;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 12px rgba(37, 38, 94, 0.06);
+}
+
+.middle-content {
+    width: 730px;
+    margin-left: 190px;
+    margin-top: 167px;
+    background: #FBFBFB;
+    /* Color/ Grey/ Grey 6 */
+    border: 1px solid #D3DCE6;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.middle-content__row1 {
+    margin-top: 67px;
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    /* programiz-brand/secondary */
+    color: #6501E5;
+}
+
+.middle-content__row2 {
+    margin-top: 24px;
+    /* programiz/Body/normal-16px */
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+    text-align: center;
+    /* programiz-brand/text/para */
+    color: rgba(37, 38, 94, 0.87);
+}
+
+.middle-content button {
+    margin-left: 242px;
+    margin-top: 36px;
+    margin-bottom: 32px;
+    background: #0556F3;
+    border-radius: 4px;
+}
+
+.button {
+    padding: 12px 16px;
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.footer {
+    margin-top: 177px;
+    background: rgba(20, 28, 58, 0.9);
+}
+
+.footer__left {
+    /* display: inline-block; */
+    padding: 24px 0px;
+}
+
+.logo-wrapper {
+    margin-right: 16px;
+}
+
+.footer__left__text1 {
+    margin-right: 35px;
+}
+
+.footer__left__text1 h2 {
+    /* programiz/Body/med-14px */
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    /* Color/ Grey/ Grey 6 */
+    color: #D3DCE6;
+}
+
+.footer__left__text2 {
+    margin-right: 24px;
+}
+
+.footer__left__text2 h2 {
+    /* programiz/Body/med-14px */
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    /* Color/ Grey/ Grey 6 */
+    color: #D3DCE6;
+}
+
+.footer__left__text3 h2 {
+    /* programiz/Body/med-14px */
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    /* Color/ Grey/ Grey 6 */
+    color: #D3DCE6;
+}
+
+.footer-right {
+    padding: 24px 0px;
+}

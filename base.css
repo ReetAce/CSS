@@ -1,0 +1,55 @@
+html,
+body {
+    font-size: 100%;
+}
+
+body {
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Euclid Circular A", Arial, sans-serif;
+    color: #25265e;
+    font-weight: 400;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    color: #25265e;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+    vertical-align: top;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+button {
+    font-family: "Euclid Circular A", Arial, sans-serif;
+    color: #25265e;
+    border: none;
+    outline: none;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.d-none {
+    display: none;
+}
+
+.input-padding {
+    padding: 12px 16px;
+}

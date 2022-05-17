@@ -1,0 +1,765 @@
+.container {
+    /* width: 1140px; */
+    margin-right: 165px;
+    margin-left: 165px;
+    padding: 0 15px;
+    /* float: left; */
+}
+
+header {
+    padding: 12px 0;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 12px rgba(37, 38, 94, 0.06);
+}
+
+.back-to-home {
+    padding-top: 40px;
+    padding-bottom: 32px;
+}
+
+.logo-wrapper {
+    float: left;
+    margin-right: 4px;
+}
+
+.back-to-home-ancor {
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    display: flex;
+    align-items: center;
+    /* programiz-brand/primary */
+    color: #0556F3;
+    border-radius: 4px;
+}
+
+.account-details {
+    background: #FBFBFB;
+    /* Color/ Grey/ Grey 6 */
+    border: 1px solid #D3DCE6;
+    border-radius: 4px;
+}
+
+.step-1__left-text h2 {
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height, or 150% */
+    /* programiz-brand/text/primary */
+    color: #25265E;
+}
+
+.step-1__left-text {
+    float: left;
+}
+
+.step-1 {
+    /* float: left; */
+    padding: 0 32px;
+    margin-top: 32px;
+}
+
+.step-1__right-text {
+    display: inline-block;
+}
+
+.step-1__right-text h3 {
+    padding-top: 10px;
+    padding-bottom: 6px;
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    text-align: right;
+}
+
+.account-details__input-row1 {
+    padding: 0 32px;
+}
+
+.account-details__input-row1__left-text {
+    margin-top: 24px;
+    margin-right: 26px;
+    display: inline-block;
+}
+
+.account-details__input-row1__left-text h2 {
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    /* programiz-brand/text/para */
+    color: rgba(37, 38, 94, 0.87);
+}
+
+.account-details__input-row1__left-text input {
+    margin-top: 8px;
+    background: #FFFFFF;
+    /* programiz-brand/divider */
+    border: 1px solid #D3DCE6;
+    border-radius: 4px;
+}
+
+.account-details__input-row1__left-text input ::placeholder {
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    /* programiz-brand/text/caption */
+    color: rgba(37, 38, 94, 0.67);
+}
+
+.account-details__input-row1__right-text {
+    margin-top: 24px;
+    display: inline-block;
+}
+
+.account-details__input-row1__right-text h2 {
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    /* programiz-brand/text/para */
+    color: rgba(37, 38, 94, 0.87);
+}
+
+.account-details__input-row1__right-text input {
+    margin-top: 8px;
+    background: #FFFFFF;
+    /* programiz-brand/divider */
+    border: 1px solid #D3DCE6;
+    border-radius: 4px;
+}
+
+.account-details__input-row2 {
+    margin-top: 36px;
+    padding: 0 32px;
+}
+
+.account-details__input-row2__left-text h2 {
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    /* programiz-brand/text/para */
+    color: rgba(37, 38, 94, 0.87);
+}
+
+.account-details__input-row2__left-text input {
+    margin-top: 8px;
+    background: #FFFFFF;
+    /* programiz-brand/divider */
+    border: 1px solid #D3DCE6;
+    border-radius: 4px;
+}
+
+.account-details__input-row2__right-text h2 {
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    /* programiz-brand/text/para */
+    color: rgba(37, 38, 94, 0.87);
+}
+
+.account-details__input-row2__right-text input {
+    margin-top: 8px;
+    background: #FFFFFF;
+    /* programiz-brand/divider */
+    border: 1px solid #D3DCE6;
+    border-radius: 4px;
+}
+
+.i-agree {
+    margin-top: 36px;
+    padding: 0 32px;
+}
+
+.i-agree__checkbox {
+    display: inline-block;
+    margin-right: 8px;
+}
+
+.i-agree h2 {
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    /* programiz-brand/text/primary */
+    color: #25265E;
+}
+
+.continue-to-step2 {
+    padding: 0 32px;
+    margin-top: 40px;
+    display: inline-block;
+    margin-bottom: 32px;
+}
+
+.continue-to-step2 button {
+    /* programiz-brand/primary */
+    background: #0556F3;
+    opacity: 0.4;
+    border-radius: 4px;
+}
+
+.continue-to-step2__button {
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.payment {
+    margin-top: 32px;
+    padding: 32px 32px;
+    background: #FBFBFB;
+    /* Color/ Grey/ Grey 6 */
+    border: 1px solid #D3DCE6;
+    border-radius: 4px;
+}
+
+.step-2 {
+    display: inline-block;
+}
+
+.choose-payment-method {
+    margin-top: 24px;
+}
+
+.choose-payment-method h3 {
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+    color: #000000;
+}
+
+.divider {
+    margin-top: 16px;
+    height: 1px;
+    background: #D3DCE6;
+}
+
+.debit-credit {
+    margin-top: 28px;
+}
+
+.debit-credit__left {
+    margin-right: 8px;
+    /* display: inline-block; */
+}
+
+.debit-credit__left__img {
+    float: left;
+    margin-right: 8px;
+}
+
+.debit-credit__left h3 {
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    /* programiz-brand/text/primary */
+    color: #25265E;
+}
+
+.payment__input-row1 {
+    margin-top: 24px;
+}
+
+.payment__input-row1__left-text h2 {
+    /* programiz/Body/med-14px */
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    /* programiz-brand/text/para */
+    color: rgba(37, 38, 94, 0.87);
+}
+
+.payment__input-row1__left-text input {
+    margin-top: 8px;
+    /* programiz-brand/white */
+    background: #FFFFFF;
+    /* programiz-brand/divider */
+    border: 1px solid #D3DCE6;
+    border-radius: 4px;
+}
+
+.payment__input-row1__right-text h2 {
+    /* programiz/Body/med-14px */
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    /* programiz-brand/text/para */
+    color: rgba(37, 38, 94, 0.87);
+}
+
+.payment__input-row1__right-text input {
+    margin-top: 8px;
+    /* programiz-brand/white */
+    background: #FFFFFF;
+    /* programiz-brand/divider */
+    border: 1px solid #D3DCE6;
+    border-radius: 4px;
+}
+
+.payment__input-row2 {
+    margin-top: 36px;
+}
+
+.payment__input-row2__left-text h2 {
+    /* programiz/Body/med-14px */
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    /* programiz-brand/text/para */
+    color: rgba(37, 38, 94, 0.87);
+}
+
+.payment__input-row2__left-text input {
+    margin-top: 8px;
+    /* programiz-brand/white */
+    background: #FFFFFF;
+    /* programiz-brand/divider */
+    border: 1px solid #D3DCE6;
+    border-radius: 4px;
+}
+
+.payment__input-row2__right-text h2 {
+    /* programiz/Body/med-14px */
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    /* programiz-brand/text/para */
+    color: rgba(37, 38, 94, 0.87);
+}
+
+.payment__input-row2__right-text input {
+    margin-top: 8px;
+    /* programiz-brand/white */
+    background: #FFFFFF;
+    /* programiz-brand/divider */
+    border: 1px solid #D3DCE6;
+    border-radius: 4px;
+}
+
+.payment__input-row3 {
+    margin-top: 36px;
+}
+
+.payment__input-row3__left-text h2 {
+    /* programiz/Body/med-14px */
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    /* programiz-brand/text/para */
+    color: rgba(37, 38, 94, 0.87);
+}
+
+.payment__input-row3__left-text input {
+    margin-top: 8px;
+    /* programiz-brand/white */
+    background: #FFFFFF;
+    /* programiz-brand/divider */
+    border: 1px solid #D3DCE6;
+    border-radius: 4px;
+}
+
+.payment__input-row3__right-text h2 {
+    /* programiz/Body/med-14px */
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    /* programiz-brand/text/para */
+    color: rgba(37, 38, 94, 0.87);
+}
+
+.payment__input-row3__right-text input {
+    margin-top: 8px;
+    /* programiz-brand/white */
+    background: #FFFFFF;
+    /* programiz-brand/divider */
+    border: 1px solid #D3DCE6;
+    border-radius: 4px;
+}
+
+.payment__input-row4 {
+    margin-top: 36px;
+}
+
+.payment__input-row4__left-text h2 {
+    /* programiz/Body/med-14px */
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    /* programiz-brand/text/para */
+    color: rgba(37, 38, 94, 0.87);
+}
+
+.payment__input-row4__left-text input {
+    margin-top: 8px;
+    /* programiz-brand/white */
+    background: #FFFFFF;
+    /* programiz-brand/divider */
+    border: 1px solid #D3DCE6;
+    border-radius: 4px;
+}
+
+.payment__input-row4__right-text h2 {
+    /* programiz/Body/med-14px */
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    /* programiz-brand/text/para */
+    color: rgba(37, 38, 94, 0.87);
+}
+
+.payment__input-row4__right-text input {
+    margin-top: 8px;
+    /* programiz-brand/white */
+    background: #FFFFFF;
+    /* programiz-brand/divider */
+    border: 1px solid #D3DCE6;
+    border-radius: 4px;
+}
+
+.payment__input-row5 {
+    margin-top: 36px;
+}
+
+.payment__input-row5__left-text h2 {
+    /* programiz/Body/med-14px */
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    /* programiz-brand/text/para */
+    color: rgba(37, 38, 94, 0.87);
+}
+
+.payment__input-row5__left-text input {
+    margin-top: 8px;
+    /* programiz-brand/white */
+    background: #FFFFFF;
+    /* programiz-brand/divider */
+    border: 1px solid #D3DCE6;
+    border-radius: 4px;
+}
+
+.payment__input-row5__right-text h2 {
+    /* programiz/Body/med-14px */
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    /* programiz-brand/text/para */
+    color: rgba(37, 38, 94, 0.87);
+}
+
+.payment__input-row5__right-text input {
+    margin-top: 8px;
+    /* programiz-brand/white */
+    background: #FFFFFF;
+    /* programiz-brand/divider */
+    border: 1px solid #D3DCE6;
+    border-radius: 4px;
+}
+
+.continue-to-step3 {
+    padding-left: 32px;
+    margin-top: 40px;
+    /* display: inline-block; */
+    margin-bottom: 32px;
+}
+
+.continue-to-step3 button {
+    /* programiz-brand/primary */
+    background: #0556F3;
+    opacity: 0.4;
+    border-radius: 4px;
+}
+
+.continue-to-step3__button {
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.new-divider {
+    height: 1px;
+    background: #D3DCE6;
+}
+
+.paypal {
+    margin-top: 28px;
+}
+
+.radio {
+    margin-right: 8px;
+}
+
+.paypal-text {
+    margin-right: 8px;
+}
+
+.review-confirm {
+    margin-top: 32px;
+    padding: 32px 32px;
+    background: #FBFBFB;
+    /* Color/ Grey/ Grey 6 */
+    border: 1px solid #D3DCE6;
+    border-radius: 4px;
+}
+
+.step-3__left-text h2 {
+    /* programiz/H2/24px */
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height, or 150% */
+    /* programiz-brand/text/primary */
+    color: #25265E;
+}
+
+.step-3__right-text h3 {
+    /* programiz/Body/med-14px */
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    text-align: right;
+    /* programiz-brand/text/para */
+    color: rgba(37, 38, 94, 0.87);
+}
+
+.secure-checkout {
+    margin-right: 6px;
+}
+
+.review-confirm__text {
+    margin-top: 41px;
+}
+
+.review-confirm__text h2 {
+    /* programiz/H4/20px */
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    /* identical to box height, or 156% */
+    /* programiz-brand/text/primary */
+    color: #25265E;
+}
+
+.review-confirm__para {
+    margin-top: 16px;
+}
+
+.review-confirm__para p {
+    /* programiz/Body/normal-16px */
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+    /* programiz-brand/text/para */
+    color: rgba(37, 38, 94, 0.87);
+}
+
+.review-confirm__input-field {
+    margin-top: 24px;
+}
+
+.review-confirm__input-field__left h2 {
+    /* programiz/Body/med-14px */
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    /* programiz-brand/text/para */
+    color: rgba(37, 38, 94, 0.87);
+}
+
+.review-confirm__input-field__left input {
+    margin-top: 8px;
+    /* programiz-brand/white */
+    background: #FFFFFF;
+    /* programiz-brand/divider */
+    border: 1px solid #D3DCE6;
+    border-radius: 4px;
+}
+
+.review-confirm__input-field__right h2 {
+    /* programiz/Body/med-14px */
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    /* programiz-brand/text/para */
+    color: rgba(37, 38, 94, 0.87);
+}
+
+.review-confirm__input-field__right input {
+    margin-top: 8px;
+    /* programiz-brand/white */
+    background: #FFFFFF;
+    /* programiz-brand/divider */
+    border: 1px solid #D3DCE6;
+    border-radius: 4px;
+}
+
+.confirm-purchase {
+    margin-top: 36px;
+}
+
+.confirm-purchase button {
+    background: #0556F3;
+    border-radius: 4px;
+}
+
+.confirm-purchase__button {
+    /* programiz/Body/bold-16px */
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.footer {
+    margin-top: 56px;
+    background: rgba(20, 28, 58, 0.9);
+}
+
+.footer__left {
+    /* display: inline-block; */
+    padding: 24px 0px;
+}
+
+.logo-wrapper {
+    margin-right: 16px;
+}
+
+.footer__left__text1 {
+    margin-right: 35px;
+}
+
+.footer__left__text1 h2 {
+    /* programiz/Body/med-14px */
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    /* Color/ Grey/ Grey 6 */
+    color: #D3DCE6;
+}
+
+.footer__left__text2 {
+    margin-right: 24px;
+}
+
+.footer__left__text2 h2 {
+    /* programiz/Body/med-14px */
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    /* Color/ Grey/ Grey 6 */
+    color: #D3DCE6;
+}
+
+.footer__left__text3 h2 {
+    /* programiz/Body/med-14px */
+    font-family: 'Euclid Circular A';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    /* Color/ Grey/ Grey 6 */
+    color: #D3DCE6;
+}
+
+.footer-right {
+    padding: 24px 0px;
+}
